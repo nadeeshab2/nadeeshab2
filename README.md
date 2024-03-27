@@ -6,7 +6,7 @@
 <p align="center" > <img src="https://media.tenor.com/kDKGm1ddC6kAAAAj/cute-puppy.gif"/></p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Hi,+I'm+NadeeshaBandara;%F0%9F%8C%9F+Computer+science+undergraduate.;%F0%9F%92%A1+at+NSBM Green University.;%F0%9F%9A%80+Welcome+to my+GitHub+profile" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Hi,+I'm+Nadeesha  Bandara;%F0%9F%8C%9F+Computer+science+undergraduate.;%F0%9F%92%A1+at+NSBM Green University.;%F0%9F%9A%80+Welcome+to my+GitHub+profile" alt="Typing SVG" />
 </a>
 </p>
 
