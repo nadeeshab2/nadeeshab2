@@ -1,7 +1,4 @@
-<center><div>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://r2.erweima.ai/imgcompressed/compressed_f374522dd635be08a18056e3aa0ad355.webp" classwidth ="250" height="200"></a>
-</div>
-</center>
+
 <br>
 
 # Hi there! 👋
