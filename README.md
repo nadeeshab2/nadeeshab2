@@ -1,5 +1,5 @@
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fsticker%2FIm-a-gamer-girl-playing-game-gamer-kawaii-cute-cat-gamer-queen-by-GuGus1337%2F149716384.EJUG5&psig=AOvVaw0yE3S-_QydW_qHCn3t0MoF&ust=1711619608601000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDh7IiWlIUDFQAAAAAdAAAAABAE"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://r2.erweima.ai/imgcompressed/compressed_f374522dd635be08a18056e3aa0ad355.webp"></a>
 <br>
 
 # Hi there! 👋
